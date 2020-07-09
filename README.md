@@ -10,7 +10,9 @@ In my spare time, I also like to dabble in web design, and I love learning to in
 
 ..please feel free to contact me! I would love to work on research or data science-related projects, but I (think I) am interested in many things!
 
-- 🔭 I’m currently working on several economic history related projects. Feel free to take a look at [my website](http://bas-m.netlify.app) if you want to know more.
+## 🔭 I’m currently working on..
+
+Several economic history-related projects! Feel free to take a look at [my website](http://bas-m.netlify.app) if you want to know more.
 
 ## 🌱 I’m currently learning..
 
