@@ -24,7 +24,7 @@ Anything I am learning about!
 
 ## 💬 Ask me about ...
 
-Anything, but especially, my other hobby! Languages
+Anything, but especially, my other hobby, languages! I love to (attempt to) speak French, Russian, English, German, Dutch or Turkish (not necessarily in order of preference!)
 
 
 ## 📫 How to reach me: ...
