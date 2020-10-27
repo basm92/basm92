@@ -12,11 +12,11 @@ In my spare time, I also like to dabble in web design, and I love learning to in
 
 ## I’m currently working on..
 
-Several economic history-related projects! Feel free to take a look at [my website](http://bas-m.netlify.app) if you want to know more.
+Several economic history-related projects, among which is my (future) job market paper! Feel free to take a look at [my website](http://bas-m.netlify.app) if you want to know more.
 
 ## I’m currently learning.. 🌱
 
-I am trying to improve my efficiency in Python, and I am also taking courses in Microeconomics and Mathematics.
+I am slowly trying to improve my efficiency in Python, and I am also taking courses in Game Theory!
 
 ## I’m looking for help with ...
 
