@@ -16,7 +16,7 @@ Several economic history-related projects, among which is my (future) job market
 
 ## I’m currently learning.. 🌱
 
-I am slowly trying to improve my efficiency in Python, and I am also taking courses in Game Theory!
+I am slowly trying to improve my efficiency in Python, and I am trying to learn the basics of Julia!
 
 ## I’m looking for help with ...
 
