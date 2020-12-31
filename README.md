@@ -1,6 +1,6 @@
 ## Bas Machielsen 👋
 
-Welcome to my [Github Profile](http://www.github.com/basm92)! My name is Bas Machielsen, and I am a PhD student specializing in economic history at Utrecht University (the Netherlands). My favorite programming languages are R, in which I have experience developing some low-key Shiny apps and packages, as well as Python, about which I am still very actively learning. I also have some elementary knowledge of HTML and CSS. 
+Welcome to my [Github Profile](http://www.github.com/basm92)! My name is Bas Machielsen, and I am a PhD student specializing in economic history at Utrecht University (the Netherlands). My favorite (and most-used) programming languages are R, in which I have experience developing some low-key Shiny apps and packages, as well as Python. I also have some elementary knowledge of HTML, CSS, and bash. 
 
 In my spare time, I also like to dabble in web design, and I love learning to integrate my web tools using the aforementioned programming languages. If you.. 
 
