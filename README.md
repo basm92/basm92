@@ -16,11 +16,10 @@ Several economic history-related projects, among which is my (future) job market
 
 ## I’m currently learning.. 🌱
 
-I am slowly trying to improve my efficiency in Python, and I am trying to learn the basics of Julia!
+If you want to take any of these two courses (specializations) together with me from April/May onwards, hit me up!
 
-## I’m looking for help with ...
-
-Anything I am learning about!
+- [Applied Data Science in Python](https://www.coursera.org/specializations/data-science-python#courses)
+- [Mathematical Methods for Quantitative Finance](https://www.edx.org/course/mathematical-methods-for-quantitative-finance?index=product&queryID=6a6fa2236f0ff92c67bd6f72806af846&position=6)
 
 ## 💬 Ask me about ...
 
