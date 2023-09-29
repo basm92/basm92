@@ -4,5 +4,5 @@ Welcome to my [Github Profile](http://www.github.com/basm92)! My name is Bas Mac
 
 ## I’m currently working on..
 
-Several economics projects, among which is my (future) job market paper! Feel free to take a look at [my website](http://bas-m.netlify.app) if you want to know more.
+Several economics projects about historical political economy! Feel free to take a look at [my website](http://bas-m.netlify.app) if you want to know more.
 
